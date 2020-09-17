@@ -1,0 +1,41 @@
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.csprojAssemblyReference.cache
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.adminlogin.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.mainform.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Properties.Resources.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.csproj.GenerateResource.cache
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.exe
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.pdb
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.stdlogin.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.manlogin.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.stdsignup.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.appform.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.conform.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.appman.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.apprecform.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.removeform.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.stdinfoform.resources
+C:\Users\Sidra khan\Desktop\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.vacateform.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.csprojAssemblyReference.cache
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.adminlogin.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.appman.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.apprecform.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.mainform.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.manlogin.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.Properties.Resources.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.removeform.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.stdinfoform.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.stdlogin.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.stdsignup.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.vacateform.resources
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.csproj.GenerateResource.cache
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.exe
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.pdb
+C:\Users\Sidra khan\Desktop\semester 4\DB LABS\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.application.resources
